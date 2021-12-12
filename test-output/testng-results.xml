@@ -2,28 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="44473" started-at="2021-12-12T12:49:25 IST" finished-at="2021-12-12T12:50:10 IST">
+  <suite name="Default suite" duration-ms="55394" started-at="2021-12-12T13:22:37 IST" finished-at="2021-12-12T13:23:33 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="44473" started-at="2021-12-12T12:49:25 IST" finished-at="2021-12-12T12:50:10 IST">
-      <class name="org.testing.TestScripts.TC8">
-        <test-method status="PASS" signature="LocatorsFile()[pri:0, instance:org.testing.TestScripts.TC8@7a1ebcd8]" name="LocatorsFile" is-config="true" duration-ms="29" started-at="2021-12-12T12:49:25 IST" finished-at="2021-12-12T12:49:25 IST">
+    <test name="Default test" duration-ms="55394" started-at="2021-12-12T13:22:37 IST" finished-at="2021-12-12T13:23:33 IST">
+      <class name="org.testing.TestScripts.TC6">
+        <test-method status="PASS" signature="LocatorsFile()[pri:0, instance:org.testing.TestScripts.TC6@30a3107a]" name="LocatorsFile" is-config="true" duration-ms="9" started-at="2021-12-12T13:22:37 IST" finished-at="2021-12-12T13:22:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LocatorsFile -->
-        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:org.testing.TestScripts.TC8@7a1ebcd8]" name="OpenBrowser" is-config="true" duration-ms="9262" started-at="2021-12-12T12:49:25 IST" finished-at="2021-12-12T12:49:34 IST">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:org.testing.TestScripts.TC6@30a3107a]" name="OpenBrowser" is-config="true" duration-ms="11261" started-at="2021-12-12T13:22:37 IST" finished-at="2021-12-12T13:22:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
-        <test-method status="PASS" signature="History()[pri:0, instance:org.testing.TestScripts.TC8@7a1ebcd8]" name="History" duration-ms="34761" started-at="2021-12-12T12:49:34 IST" finished-at="2021-12-12T12:50:09 IST">
+        <test-method status="PASS" signature="CommentVideo()[pri:0, instance:org.testing.TestScripts.TC6@30a3107a]" name="CommentVideo" duration-ms="44040" started-at="2021-12-12T13:22:48 IST" finished-at="2021-12-12T13:23:32 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- History -->
-        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.TC8@7a1ebcd8]" name="CloseBrowser" is-config="true" duration-ms="351" started-at="2021-12-12T12:50:09 IST" finished-at="2021-12-12T12:50:10 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseBrowser -->
-      </class> <!-- org.testing.TestScripts.TC8 -->
+        </test-method> <!-- CommentVideo -->
+      </class> <!-- org.testing.TestScripts.TC6 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

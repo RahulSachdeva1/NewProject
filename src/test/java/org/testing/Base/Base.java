@@ -32,12 +32,12 @@ public class Base {
 		pr.load(fr);
 	}
 	
-	
+	/*
 	@AfterMethod
 	public void CloseBrowser() 
 	{
 	driver.close();
-	}
+	}*/
 	
 	
 	
